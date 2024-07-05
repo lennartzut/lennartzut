@@ -2,7 +2,7 @@
 
 My name is Lennart, and I am a software engineer!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-zeneo&layout=compact)](https://github.com/leo-zeneo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lennartzut&layout=compact)](https://github.com/lennartzut/github-readme-stats)
 
 In case you want to learn more, check out my LinkedIn profile below!
 
