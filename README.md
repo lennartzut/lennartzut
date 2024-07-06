@@ -18,7 +18,7 @@ In case you want to learn more, check out my LinkedIn profile below!
 
 - I speak 🇳🇱 🇬🇧 🇩🇪.
 
-- :zap: In my free time I enjoy: playing guitar 🎸: | gaming 🎮:
+- :zap: In my free time I enjoy: playing guitar 🎸 | gaming 🎮
 
 </br>
 
