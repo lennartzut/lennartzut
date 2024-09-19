@@ -12,9 +12,9 @@ In case you want to learn more, check out my LinkedIn profile below!
 
 ### 👨‍💻: A little bit about Me :
 
-- I am from the Netherlands.
+- I am originally from the Netherlands.
 
-- I live in Fürth, Germany.
+- I live in Fürth, Germany since 2015.
 
 - I speak 🇳🇱 🇬🇧 🇩🇪.
 
