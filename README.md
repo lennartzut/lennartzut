@@ -1,24 +1,19 @@
-# Hello! 😄
+# Hi there, I'm Lennart! 👋
 
-My name is Lennart, and I am a software engineer!
+### 🙋‍♂️ About Me
+I'm a passionate Software Engineer from the Netherlands 🇳🇱, currently living in Fürth, Germany 🇩🇪 since 2015. I love building software solutions and continuously learning new technologies.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lennartzut&layout=compact)](https://github.com/lennartzut/github-readme-stats)
+🌐 Languages: Dutch, English, and German.
 
-In case you want to learn more, check out my LinkedIn profile below!
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lennart-zut/)
+🎸 Hobbies: Playing guitar and gaming.
 
 </br>
 
-### 👨‍💻: A little bit about Me :
+### 📫 How to Reach Me
 
-- I am originally from the Netherlands.
+📧 Email: lennart_zut@hotmail.com
 
-- I live in Fürth, Germany since 2015.
-
-- I speak 🇳🇱 🇬🇧 🇩🇪.
-
-- :zap: In my free time I enjoy: playing guitar 🎸 | gaming 🎮
+💼 Connect with me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lennart-zut/)
 
 </br>
 
@@ -32,3 +27,9 @@ In case you want to learn more, check out my LinkedIn profile below!
   <img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" title="Git" alt="Git" width="35" height="35"/>&nbsp;
 </div>
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lennartzut&layout=compact)](https://github.com/lennartzut/github-readme-stats)
+
+
