@@ -1,7 +1,7 @@
 # Hi there, I'm Lennart! 👋
 
 ### 🙋‍♂️ About Me
-I'm a enthusiastic Software Engineer from the Netherlands 🇳🇱, currently living in Fürth, Germany 🇩🇪 since 2015. I love building software solutions and continuously learning new technologies.
+I'm an enthusiastic Software Engineer from the Netherlands 🇳🇱, currently living in Fürth, Germany 🇩🇪 since 2015. I love building software solutions and continuously learning new technologies.
 
 🌐 Languages: Dutch, English, and German.
 
