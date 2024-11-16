@@ -7,7 +7,7 @@ I'm an enthusiastic Software Engineer from the Netherlands 🇳🇱, currently l
 
 🎸 Hobbies: Playing guitar and gaming.
 
-💼 Connect with me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lennart-zut/)
+💼 Connect with me on  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lennart-zut/)
 
 </br>
 
